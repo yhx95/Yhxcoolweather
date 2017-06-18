@@ -1,12 +1,12 @@
 package com.example.yhxcoolweather.db;
 
-import DataSupport;
+import org.litepal.crud.DataSupport;
 
 /**
  * Created by Administrator on 2017-06-18.
  */
 
-public class County {
+public class County extends DataSupport{
     private int id;
     private  String countyName;   //县的名字
     private String weatherId;    //对应天气的id
