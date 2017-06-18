@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <litepal>
+    <dbname value="cool_weather"/>
+    <version value="1"/>
+    <list>
+        <mapping clsass="com.example.yhxcoolweather.db.Province"/>
+        <mapping clsass="com.example.yhxcoolweather.db.City"/>
+        <mapping clsass="com.example.yhxcoolweather.db.County"/>
+    </list>
+</litepal>
