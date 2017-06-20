@@ -1,4 +1,5 @@
 <resources>
+    <string name="app_name">酷欧天气</string>
 
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
